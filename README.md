@@ -21,6 +21,36 @@ This is the main process as in this process we need to Configure Our machine to 
 
 First you need to insstall OPENSSH
 
-'''bash 
+``` bash 
 sudo apt update & sudo apt install -y openssh-server
-'''
+```
+
+Start The SSH Service 
+
+``` bash
+sudo systemctl start ssh
+sudo systemctl enable ssh
+```
+Check the ssh status 
+
+``` bash
+sudo syetemctl status ssh
+```
+
+Now we are done configuring SSH.
+
+## Connecting on LAN
+
+To connect to it you need to you need to get the local ip of the kali linux by running command.
+``` bash
+ifconfig
+```
+
+after that try to connet to it from another computer connected on the same network by cmd or shell
+
+``` bash
+ssh kali-user@ip-of-linux-machine
+```
+Now you will be connected to the shell of the kali linux by ssh.
+
+## Configure For Public Access over WAN.
