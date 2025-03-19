@@ -13,7 +13,7 @@ This repository is to help with building your own vps from using your old pc har
 
 ## OS Installation
 
-First we need to Install The Operating System, I prefer Kali Linux as it is pretty easy to work on. First we need to install the operating system from https://www.kali.org/get-kali/#kali-installer-images then we need to flash it to the Bootable pendrive. to flash it we need to download ventoy from https://sourceforge.net/projects/ventoy/files/v1.1.05 then after downloading it open ventoy2disk.exe and select the pendrive you want to boot then click on Install Button after this you just need to paste the iso file into the bootable pendrive and your work is done. Now you Just need to Install the OS on laptop you just need to plug the pendrive and install it. It is a quite easy process for any confuse watch the kali installation video on my channel or you can directly contact me.
+First we need to Install The Operating System, I prefer Kali Linux as it is pretty easy to work on. First we need to install the operating system from [Kali.org](https://www.kali.org/get-kali/#kali-installer-images) then we need to flash it to the Bootable pendrive. to flash it we need to download ventoy from [ventoy](https://sourceforge.net/projects/ventoy/files/v1.1.05) then after downloading it open ventoy2disk.exe and select the pendrive you want to boot then click on Install Button after this you just need to paste the iso file into the bootable pendrive and your work is done. Now you Just need to Install the OS on laptop you just need to plug the pendrive and install it. It is a quite easy process for any confuse watch the kali installation video on my channel or you can directly contact me.
 
 ## Cnfigure SSH
 
@@ -54,3 +54,5 @@ ssh kali-user@ip-of-linux-machine
 Now you will be connected to the shell of the kali linux by ssh.
 
 ## Configure For Public Access over WAN.
+
+Now you have to play with the Router and some advance stuff for proceeding further so i will recommend you to watch the video properly and if you have any doubts you can directly DM me [message me](https://instagram.com/err0rgod)
