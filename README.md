@@ -3,7 +3,7 @@ This repository is to help with building your own vps from using your old pc har
 
 ## Required Components.
 
-1. PC Hardware which is working display, keyboard, maouse doesn't matter.
+1. PC Hardware which is working display, keyboard, mouse doesn't matter.
 2. External temporary Moniter for setting up OS. (can use a tv)
 3. Storage as you Required.
 4. Wifi Connection. as we need to enable port forwarding to publish it on WAN.
